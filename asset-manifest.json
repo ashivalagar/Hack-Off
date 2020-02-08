@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Hack-Off/static/css/main.04f85144.chunk.css",
+    "main.js": "/Hack-Off/static/js/main.382064df.chunk.js",
+    "main.js.map": "/Hack-Off/static/js/main.382064df.chunk.js.map",
+    "runtime-main.js": "/Hack-Off/static/js/runtime-main.7aeafce7.js",
+    "runtime-main.js.map": "/Hack-Off/static/js/runtime-main.7aeafce7.js.map",
+    "static/js/2.3a927a4c.chunk.js": "/Hack-Off/static/js/2.3a927a4c.chunk.js",
+    "static/js/2.3a927a4c.chunk.js.map": "/Hack-Off/static/js/2.3a927a4c.chunk.js.map",
+    "index.html": "/Hack-Off/index.html",
+    "precache-manifest.57afb16f0d6bac8285ccac9cd59b3488.js": "/Hack-Off/precache-manifest.57afb16f0d6bac8285ccac9cd59b3488.js",
+    "service-worker.js": "/Hack-Off/service-worker.js",
+    "static/css/main.04f85144.chunk.css.map": "/Hack-Off/static/css/main.04f85144.chunk.css.map",
+    "static/js/2.3a927a4c.chunk.js.LICENSE": "/Hack-Off/static/js/2.3a927a4c.chunk.js.LICENSE",
+    "static/media/index.css": "/Hack-Off/static/media/Hacked-KerX.2f48abc8.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7aeafce7.js",
+    "static/js/2.3a927a4c.chunk.js",
+    "static/css/main.04f85144.chunk.css",
+    "static/js/main.382064df.chunk.js"
+  ]
+}
